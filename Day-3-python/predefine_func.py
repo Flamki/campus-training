@@ -1,0 +1,21 @@
+print('prashantjha777'.isalnum())
+print('prashantjha'.isalpha())
+print('777f'.isdigit())
+print('sdsdsdsd'.islower())
+print(''.islower())
+print('PRASHANTJ'.isupper())
+print('My Name Is Prashant'.istitle())
+print('my name is prashant'.istitle())
+print(''.istitle())
+print('my name is prashant'.isspace())
+print(' '.isspace())
+
+
+n=[1,2,3,5,5,5,1,2,4,4,6,6,6]
+print(n.count(1))
+print(n.count(2))
+print(n.count(3))
+print(n.count(4))
+print(n.count(5))
+print(n.count(6))
+print(n.count(7))
